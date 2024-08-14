@@ -1,0 +1,11 @@
+It is a Food Delivery Website
+
+Step-1 : User Register their Profile
+Step-2 : After Register User Need to do Login
+------- IF USER DID NOT REGISTER THEY WILL NOT LOGIN -------
+Step-3 : After Login user can select some food items
+Step-4 : After Selection user can see detais about their purchase items
+Step-5 : User can edit their selection 
+Step-6 : After selection now user need to do Payment
+Step-7 : user can pay Payment via Card or UPI
+Step-8 : If all Payment details is correct then order placed else It can't. 
